@@ -20,8 +20,8 @@
 String SERIAL_NUMBER = "Kiddy12345678";
 
 // SSID/Password Wifi
-const char* ssid = "apaya?";
-const char* password = "MrCecep13";
+const char* ssid = "Galaxy";
+const char* password = "12571257";
 
 
 // Object GPS
